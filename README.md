@@ -1,23 +1,3 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-0
-Fork on GitHub
-0
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Gunanihil N</h1>
 <h3 align="center">Frontend Developer focused on building scalable, high-performance, and user-centric web applications with React and Next.js.</h3>
 
